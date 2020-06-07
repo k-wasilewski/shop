@@ -53,7 +53,7 @@ This is the first step of placing new order, with validation.
 
 #### 2 - New order step 2
 ![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/new_order2.png)
-This is the second step of placing new order, with items' availibility checking.
+This is the second step of placing new order, with items' availibility checking and visualization.
 
 #### 3 - Confirmation and menu
 ![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/confirmation_menu.png)
