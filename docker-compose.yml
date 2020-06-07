@@ -1,4 +1,4 @@
-Vversion: "3"
+version: "3"
 services:
   frontend:
     container_name: frontend
