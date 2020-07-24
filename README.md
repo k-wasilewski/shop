@@ -59,6 +59,14 @@ This is the second step of placing new order, with items' availibility checking 
 ![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/confirmation_menu.png)
 This is the confirmation of successfully placed order, and a drop-down menu.
 
-#### 4 - Summary
+#### 4 - Login
+![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/login.png)
+Login form for JWT token authentication at server.
+
+#### 5 - Logged-in
+![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/logged-in.png)
+Accessible logout.
+
+#### 6 - Summary
 ![alt text](https://raw.githubusercontent.com/k-wasilewski/shop/master/screenshots/summary.png)
 This is the summary of placed orders, with drop-down lists of items.
