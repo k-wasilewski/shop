@@ -1,4 +1,4 @@
-## build&run&test the app
+## build & deploy on Docker & deploy on Node.js & test the app
 frontend - React.js<br>
 backend - Spring Boot<br>
 
@@ -10,7 +10,7 @@ backend - Spring Boot<br>
 2b. mvn package<br>
 <br>
 
-### run on Docker
+### deploy on Docker
 1a. cd frontend<br>
 1b. docker build -t frontend .<br>
 <br>
@@ -23,9 +23,9 @@ backend - Spring Boot<br>
 4. go to http://localhost:3000<br>
 <br>
 
-### run locally
+### deploy on Node.js
 1a. cd frontend<br>
-1b. npm start<br>
+1b. npm deploy<br>
 <br>
 2a. install mysql-server<br>
 2b. change root password to 'root'<br>
@@ -34,7 +34,7 @@ backend - Spring Boot<br>
 3a. cd backend<br>
 3b. java -jar target/backend-0.0.1-SNAPSHOT.jar<br>
 <br>
-4. go to http://localhost:3000<br>
+4. go to https://localhost:3000<br>
 <br>
 
 ### test
