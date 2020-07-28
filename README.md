@@ -17,7 +17,7 @@ backend - Spring Boot<br>
 2a. cd backend<br>
 2b. docker build -t backend .<br>
 <br>
-3a. cd semantive_fullstack<br>
+3a. cd shop<br>
 3b. docker-compose up<br>
 <br>
 4. go to http://localhost:3000<br>
