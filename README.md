@@ -20,7 +20,7 @@ backend - Spring Boot<br>
 3a. cd shop<br>
 3b. docker-compose up<br>
 <br>
-4. go to http://localhost:3000<br>
+4. go to https://localhost:3000<br>
 <br>
 
 ### deploy on Node.js
