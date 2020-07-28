@@ -34,7 +34,7 @@ services:
       - MYSQL_ROOT_PASSWORD=root
       - MYSQL_DATABASE=shop
     volumes:
-      - /home/db:/var/lib/mysql
+      - /home/shop/db:/var/lib/mysql
 
   adminer:
    image: adminer
