@@ -20,7 +20,8 @@ backend - Spring Boot<br>
 3a. cd shop<br>
 3b. docker-compose up<br>
 <br>
-4. go to https://localhost:3000<br>
+4a. go to https://localhost:8081 and accept the self-signed certificate<br>
+4b. go to https://localhost:3000 and accept the self-signed certificate<br>
 <br>
 
 ### deploy on Node.js
@@ -34,7 +35,8 @@ backend - Spring Boot<br>
 3a. cd backend<br>
 3b. java -jar target/backend-0.0.1-SNAPSHOT.jar<br>
 <br>
-4. go to https://localhost:3000<br>
+4a. go to https://localhost:8081 and accept the self-signed certificate<br>
+4b. go to https://localhost:3000 and accept the self-signed certificate<br>
 <br>
 
 ### test
