@@ -9,7 +9,7 @@ backend - Spring Boot<br>
 2a. cd backend/src/main/resources<br>
 2b. keytool -genkeypair -alias selfsigned_localhost_sslserver -keyalg RSA -keysize 2048 -storetype PKCS12 -keystore ebininfosoft-ssl-key.p12 -validity 3650<br>
 2c. Enter keystore password: s3cr3t<br>
-2d. cd backend
+2d. cd backend<br>
 2e. mvn package<br>
 <br>
 
